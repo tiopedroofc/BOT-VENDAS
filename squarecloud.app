@@ -1,0 +1,6 @@
+DISPLAY_NAME=DASH V4
+MAIN=index.js
+VERSION=recommended
+MEMORY=512
+AUTORESTART=true
+DESCRIPTION=dashstore.site
